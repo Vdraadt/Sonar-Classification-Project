@@ -1,5 +1,6 @@
 # Sonar-Classification-Project
 Classification group project for DSCI using the sonar dataset
+
 Taken from https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks) (Sonar dataset):
 
 "Data Set Information:
